@@ -1,0 +1,8 @@
+Flask==3.1.0
+Flask-Cors==5.0.1  # Correct version
+Flask-RESTful==0.3.9
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+joblib==1.4.2
+xgboost==2.1.4

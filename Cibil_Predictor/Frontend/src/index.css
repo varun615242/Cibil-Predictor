@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+color: rgb(255, 231, 238);
+color: oklch(95% 0.2 0);
+
+@media print {
+    body {
+      background: white !important;
+      color: black !important;
+    }
+  }
