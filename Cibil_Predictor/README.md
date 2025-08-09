@@ -125,4 +125,4 @@ GMAIL_PASS=your_gmail_app_password
 
 
 🎓 Author
-Made with 💜 by S Shivaprasad
+varun pothurajula
